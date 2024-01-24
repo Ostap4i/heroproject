@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Hero project\Hero project\obj\Debug\Hero project.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Hero project\Hero project\obj\Debug\Hero project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Hero project\Hero project\obj\Debug\Hero project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hero project\Hero project\bin\Debug\Hero project.exe.config
+C:\Users\Admin\source\repos\Hero project\Hero project\bin\Debug\Hero project.exe
+C:\Users\Admin\source\repos\Hero project\Hero project\bin\Debug\Hero project.pdb
+C:\Users\Admin\source\repos\Hero project\Hero project\obj\Debug\Hero project.exe
+C:\Users\Admin\source\repos\Hero project\Hero project\obj\Debug\Hero project.pdb
+C:\Users\Admin\source\repos\Hero project\Hero project\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\source\repos\Hero project\Hero project\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\source\repos\Hero project\Hero project\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\source\repos\Hero project\Hero project\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Admin\source\repos\Hero project\Hero project\obj\Debug\Hero project.csproj.CopyComplete
